@@ -1,5 +1,7 @@
 # 使用Spring Cloud与Docker实战微服务
 
+> 本开源书 forked from [使用Spring Cloud与Docker实战微服务](https://github.com/eacdy/spring-cloud-book)，作者为 [eacdy](https://github.com/eacdy)，欢迎大家 star 原作者的 [repo](https://github.com/eacdy/spring-cloud-book)，以便获得最新更新，谢谢！
+
 本文是对Spring Cloud和Docker的实战与总结 ，目前在`Git@OSC` 以及`Github` 上同步更新。
 
 阅读地址：虽然可直接在Git@OSC/GitHub上直接阅读。但是建议使用GitBook，阅读体验更好。
